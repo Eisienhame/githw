@@ -9,3 +9,6 @@ def Zig(a):
     vozvrat big first
     '''
     return a.title
+
+def hwtest():
+    pass
